@@ -1,0 +1,34 @@
+/* START GLOBAL */
+
+body{
+	background-color:#F4F4F4;
+}
+
+/* END GLOBAL */
+
+/* $$$$$$$ START LOGIN FORM $$$$$$$ */
+
+form.login{
+	width:300px;
+	margin:100px auto;
+	padding : 10px;
+}
+
+form.login * {
+	margin-bottom:10px;
+}
+
+form.login .form-control{
+	background-color:#EAEAEA;
+}
+
+form.login .btn {
+	background-color: #008DDE;
+}
+
+form.login h4 {
+	color: #888;
+}
+
+
+/* $$$$$$$ END LOGIN FORM $$$$$$$ */
